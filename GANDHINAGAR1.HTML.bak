@@ -1,0 +1,62 @@
+<HTML>
+<HEAD>
+<style>
+	body
+	{
+		background-color:lightgreen;
+		color:blue;
+		font-size:20px;
+		text-decoration:underline yellow;
+	}
+	#d1
+	{
+		display:flex;
+		background-color:blue;
+	}
+	#d2
+	{
+		display:flex;
+		background-color:blue;
+		margin-left:35px;
+		}
+	#d3
+	{
+		display:flex;
+		background-color:blue;
+		margin:70px;
+	}
+	#d4
+	{
+		display:flex;
+		background-color:blue;
+		margin:105;
+	}
+	#d5
+	{
+		display:flex;
+		background-color:blue;
+		margin:140;
+	}
+	
+</style>
+<TITLE></TITLE>
+</HEAD>
+<BOdy>
+<H1>At Hear You Can Must Watch</H1>
+<section class="d1">
+<h2>&(1)Dwarka</h2>
+<img src="C:\Users\Sis\Pictures\Saved Pictures\dwarka.jfif"></section>
+<section class="d2">
+<h2>&(2)Gir ational Park</h2>
+<img src="C:\Users\Sis\Pictures\Saved Pictures\gir.jfif"></section>
+<section class="d3">
+<h2>&(3)Somnath</h2>
+<img src="C:\Users\Sis\Pictures\Saved Pictures\somnath.jfif"></section>
+<section class="d4">
+<h2>&(4)Rani ki Vav</h2>
+<img src="C:\Users\Sis\Pictures\Saved Pictures\rani ki vav.jfif"></section>
+<section class="d5">
+<h2>&(5)Rann of Kutch</h2>
+<img src="C:\Users\Sis\Pictures\Saved Pictures\ran.jfif"></section>
+</BODY>
+</HTML>

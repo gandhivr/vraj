@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<STYLE>
+	body
+		{
+			background-color:LIME;
+			color:PURPLE;
+			font-size:20px;
+			text-decoration:underline yellow;
+		}
+
+</STYLE>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1>At Hear you Can Must Watch</H1>
+<H2>*(1)Santhome Cathedral Basilica</H2>
+<IMG SRC="C:\Users\Sis\Pictures\Saved Pictures\Santhome Cathedral Basilica.JPG">
+<H2>*(2)Arulmigu Sri Parthasarathy</H2>
+<IMG SRC="C:\Users\Sis\Pictures\Saved Pictures\Arulmigu Sri Parthasarathy.JPG">
+<H2>*(3)Kapaleeshwarar Temple</H2>
+<IMG SRC="C:\Users\Sis\Pictures\Saved Pictures\Kapaleeshwarar Temple.JPG">
+<H2>*(4)Shri Ashtalakshmi Temple</H2>
+<IMG SRC="C:\Users\Sis\Pictures\Saved Pictures\Shri Ashtalakshmi TemplE.JPG">
+</BODY
+</HTML>

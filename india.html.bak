@@ -1,0 +1,38 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet"href="india .css">
+
+</head>
+<body> 
+<h1> INDIA </h1>
+<div id="div1"> 
+	<p>india is one of the best loveble indipendent country</p>
+	<p>the india has indipedent at 15 jan 1947</p>
+	<p>the india is famous all over world for indias culture and trditions</p>
+	<p>india has lot of historicle heritages </p>
+	<p>the indian people were very smart and intelegent</p>
+</div>
+
+<div id="div2">
+	<p>indias first president name is javahelal neheru</p>
+	<p>today indias prime minister name nerendra damoder das modi</p>
+	<p>he is the one of most loveble prime minister of india</p>
+	<p>india is seventh larjest country in the world</p>
+	<p>indias national bird is peocock</p>
+</div>
+
+<div id="div3">
+	<p>bengle tiger is national animal of india</p>
+	<p>the hockey is national sports of india</p>
+	<p>the national anthome of india is "jan gan man"</p>
+	<p>the national anthome is writen by ravindra nat tagor</p>
+	<p>india has good cricket team whos won last t20 world cup</p>
+	
+</div>
+<p style="color:blue">india is my favorite country<p>
+<IMG SRC="C:\Users\Sis\Pictures\Saved Pictures\INDIA MAP.JPG"ALT="THANK YOU">
+<BUTTON><a href="file:///C:/INDIA3.HTML">NEXT</A></BUTTON>
+</body>
+</html>
+

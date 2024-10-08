@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<H1>GUJRAT'S CAPITAL IS GANDHI NAGAR</H1>
+<P>Gandhinagar, city, capital of Gujarat state, west-central India.</P>
+<P> It lies on the banks of the Sabarmati River, just north of Ahmadabad.</P>
+<P> Gandhinagar was named for Mohandas K. Gandhi, leader of the Indian nationalist movement. </P>
+
+
+</BODY>
+</HTML>

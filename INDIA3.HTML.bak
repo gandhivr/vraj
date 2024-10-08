@@ -1,0 +1,180 @@
+<HTML>
+<HEAD>
+<style>
+	body
+		{
+			background-color:aqua;
+		
+		}
+		h1
+		{
+			text-align:center;
+			font-size:55px;
+			font -family:algerian;
+			text-decoration:underline;
+			color:green;
+		}
+		h2
+		{
+			text-align:center;
+			font-size:35px;
+			color:green;
+			font -family:algerian;
+			text-decoration:underline;
+		}
+		h3
+		{
+		
+			padding-left:20px;
+			font-size:35px;
+			color:green;
+			font-family:algerian;
+			text-decoration:underline;
+		}
+		h4
+		{
+		
+			padidng-left:25px;
+			font-size:35px;
+			color:green;
+			font-family:algerian;
+			text-decoration:underline;
+		}
+		.d1
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d2
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d3
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d4
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d5
+		{
+			padding-left:60px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d6
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d7
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.d8
+		{
+			padding-left:70px;
+			font-weight:bolder;
+			font-size:35px;
+			color:azare;
+		}
+		.imgheading
+		{
+			padding-left:70px;
+			font-size:45px;
+			color:maroon;
+		}
+		img
+		{
+			padding-top:70px;
+			paddimg-right:10px;
+			float:right;
+			border:groove orange 25px;
+		}
+		.nextbutton
+		{
+			position:absolute;
+			font-weight:bolde;
+			font-size:40px;
+			padding-left:50px;
+			border:soloid 4px;
+			background-color:sulmon;
+		}
+<TITLE></TITLE>
+</style>
+</HEAD>
+<BODY>
+<H1>OUR STATES</H1>
+	
+	<DIV class="d1">
+	<H1>GUJRAT</H1>
+	<IMG SRC="H:\html project\maps\GUJRAT.JFIF"height="200"width="200">
+	<P>#(1)Gujarat is a state along the western coast of India.</p>
+	<p>#(2)Its coastline of about 1,600 km is the longest in the country,</p>
+	<p>most of which lies on the Kathiawar peninsula.</p> 
+	<p>#(3)Gujarat is the fifth-largest Indian state by area, covering some 196,024 km²;</p>
+	<P>#(4)Gujrat Is The State Of Festival</P>
+	<P>#(5)Hear All People Enjoying All Festival</P>
+	<BUTTON><a href="file:///C:/GANDHINAGAR.HTML">NEXT</A></BUTTON>
+	</DIV>
+	
+	<DIV class="d2">
+	<H1>PANJAB</H1>
+	<IMG SRC="H:\html project\panjab\PANJAB.PNG">
+	
+	<P>#(1)Panjab Is State Of Shikh PEOPLE</P>
+	<P>#(2)Punjab, a state bordering Pakistan, is the heart of India’s Sikh community.</P> 
+	<P>#(3)The city of Amritsar, founded in the 1570s by Sikh Guru Ram Das, is the site of Harmandir Sahib</P> 
+	<P>#(4)Known in English as the Golden Temple, and surrounded by the Pool of Nectar, it's a major pilgrimage site.</P>
+    <P>#(5)Also in Amritsar is Durgiana Temple, a Hindu shrine famed for its engraved silver doors.</P>
+	<BUTTON><a href="file:///C:/CHANDIGARH.HTML">NEXT</A></BUTTON>
+	</DIV>
+	
+	<DIV class="d3">
+	<H1>TAMILNADU</H1>
+	<IMG SRC="H:\html project\tamilnadu\TA.JFIF">
+	<P>#(1)Tamil Nadu is a state in southern India. </P>
+	<P>#(2)It covers more than 50,200 square miles (130,000 square km).</P>
+	<P>#(3)Tamil people constitute the majority of the state's population, and Tamil is the state's official language.</P>
+	<P>#(4)Tamil Nadu's capital is Chennai, which is an industrial centre, but the state is essentially agricultural.</P>
+	<BUTTON><a href="file:///C:/CHENNAI.HTML">NEXT</A></BUTTON>
+	</DIV>
+	
+	<DIV class="d4">
+	<H1>MADHYAPREDES</H1>
+	<IMG SRC="H:\html project\MP\MP.JFIF">
+	<P>#(1)Madhyapardesh Is The 2nd Largest City Of India</P>
+	<P>#(2)It Is Located In Centra India</P>
+	<P>#(3)Its Capital Is Bhopal</P>
+	<BUTTON><a href="file:///C:/BHOPAL.HTML">NEXT</A></BUTTON>
+	</DIV>
+	
+	<DIV class="d5">
+	<H1>UTTARPARDESH</H1>
+	<IMG SRC="H:\html project\UP\UT.JFIF">
+	<P>#(1)A large state, Uttar Pradesh has an area of 93,933 square miles (243,286 square kilometers).</P>
+    <P>#(2)It is one of India's most densely populated states, though most of the people live in rural areas.</P>
+    <P>#(3)The state capital is Lucknow. Other major cities include Kanpur, Agra, Varanasi, Meerut, and Allahabad.</P>
+	<BUTTON><a href="file:///C:/LACKNOW.HTML">NEXT</A></BUTTON>
+	</DIV>
+	</BODY>
+	</HTML>
+	

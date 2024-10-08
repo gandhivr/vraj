@@ -1,0 +1,58 @@
+h1
+	{
+		text-align:center;
+		text-decoration:underline;
+		color:black;
+		border:groove lime 15px;
+		font-family:algerian;
+	}
+	
+body
+	{	display:flex;
+		background-color:lightblue;
+		color:orange;
+		font-size:25px;
+		border:groove 15px;
+		padding:30px
+	}
+#div1
+	{
+		background-color:red;
+		color:lime;
+		font-size:30px;
+		border:groove black 5px;
+		padding-left:70px;
+		
+	}
+#div2
+	{
+		background-color:blue;
+		color:white;
+		font-size:30px;
+		border:groove red 5px;
+		padding-left:70px;
+	}
+#div3
+	{
+		background-color:green;
+		color:yellow;
+		font-size:30px;
+		border:groove blue 5px;
+		padding-left:70px;
+	}
+#div4
+	{
+		background-color:ORANGE;
+		color:purple;
+		font-size:30px;
+		border:groove pink 5px;
+		padding-left:70px;
+	}
+#div5
+	{
+		background-color:YELLOW;
+		color:green;
+		font-size:30px;
+		border:groove lime 5px;
+		padding-left:70px;
+	}
